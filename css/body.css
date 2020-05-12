@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://wallpaperaccess.com/full/824696.jpg);
+    background-size: 400vh ;
+    height: 90vh
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+    font-size: 26px
+  }
+  .site-subtitle,
+  .site-title {
+    text-align: center ;
+    font-size: 70px ;
+  }
+  .site-subtitle {
+    font-style: italic ;
+    font-size: 30px ;
+  
+  }
